@@ -16,7 +16,7 @@ I am passionate about web development and continuously improving my skills by bu
 ## 📖 Internship Details
 
 - **Organization:** Oasis Infobyte
-- **Domain:** Web Development and Designing
+- **Domain:** Data Analytics
 - **Internship:** OIBSIP
 
 ---
