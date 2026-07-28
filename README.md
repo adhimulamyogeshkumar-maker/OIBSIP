@@ -42,7 +42,7 @@ Designed and developed a modern, responsive landing page using HTML and CSS. The
 - CSS3
 
 ### Live Demo
-👉 *(Add your GitHub Pages link here)*
+👉 *(https://adhimulamyogeshkumar-maker.github.io/OIBSIP/)*
 
 ---
 
@@ -66,7 +66,7 @@ Developed a responsive personal portfolio website to showcase my profile, skills
 - JavaScript
 
 ### Live Demo
-👉 *(Add your GitHub Pages link here)*
+👉 *(https://adhimulamyogeshkumar-maker.github.io/OIBSIP/Personal-Portfolio/)*
 
 ---
 
